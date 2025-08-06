@@ -1,1 +1,1 @@
-# Fortigate-Internet-Configuration
+# Fortigate 50 E-Internet-Configuration
